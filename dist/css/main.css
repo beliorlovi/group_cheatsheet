@@ -1,0 +1,36 @@
+#social-buttons button {
+	color: white;
+}
+.btn-twitter {
+	background-color: #00acee;
+	border-color: #009ad5;
+}
+
+.btn-facebook {
+	background-color: #4868ac;
+	border-color: #314776;
+}
+
+.btn-pinterest {
+	background-color: #b62f26;
+	border-color: #b62f26;
+}
+body {
+	padding-top: 70px;
+}
+.container {
+padding-right: 15px;
+padding-left: 15px;
+margin-right: auto;
+margin-left: auto;
+}
+#mission {
+	color: #ddd;
+	background-color: rgba(0,0,0,0.8)
+}
+.lead {
+margin-bottom: 20px;
+font-size: 16px;
+font-weight: 200;
+line-height: 1.4;
+}
